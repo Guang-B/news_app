@@ -10,12 +10,23 @@ dependencies:
   get: 4.6.5
   flutter: 
     sdk: flutter
+  sizer: ^2.0.15
+  google_fonts: ^3.0.1
+  intl: ^0.17.0
+  fluttertoast: ^8.0.9
+  flutter_svg: ^1.1.5
+  lottie: ^1.4.3
 
 dev_dependencies: 
   flutter_lints: ^2.0.0
   flutter_test: 
     sdk: flutter
 
-flutter: 
+flutter:
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/lotties/
   uses-material-design: true
 
