@@ -1,16 +1,8 @@
 # news_app
 
-A new Flutter project.
+Aplikasi Berita yang terintegrasi dengan https://newsapi.org/, yang dibuat menggunakan Framework Flutter dengan GetX Architecture.
 
-## Getting Started
+## Screenshots
+<img src="https://user-images.githubusercontent.com/44029334/196352684-fe7e5b3d-0068-48ef-8636-988b4c9f8835.jpg" width="23%"></img> <img src="https://user-images.githubusercontent.com/44029334/196352669-7e995eaa-030c-4577-9791-892df5950ef3.jpg" width="23%"></img>  <img src="https://user-images.githubusercontent.com/44029334/196352682-9f171983-0ab4-47bb-a727-021cfd165867.jpg" width="23%"></img>  <img src="https://user-images.githubusercontent.com/44029334/196352651-a8999568-f938-4c1b-98df-c1cec077973b.jpg" width="23%"></img>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
